@@ -1,0 +1,3 @@
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://assets-1.mypowerdisk.com/transcode_video/b95abf6e9239d7ba6e21121c43555289/dash/b95abf6e9239d7ba6e21121c43555289.mpd
